@@ -1,1 +1,2 @@
 ini adalah file precourse28
+letaknya ada dalam direktori Precourse28
