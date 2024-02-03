@@ -1,2 +1,3 @@
 ini adalah file precourse28
 letaknya ada dalam direktori Precourse28
+dibuat sebagai bagian dari evaluation week 1 precourse batch 28
